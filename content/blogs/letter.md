@@ -20,7 +20,7 @@ you will encounter, is to be truly aware of their depth. This does not always co
 many things are, awareness is a game of trial and error. As such, below you will find a compilation
 of tenets to guide you in your own definition of awareness.
 
-**Tenet I:** Don’t Be Deceived by Society’s Definition of Success.
+**Tenet I: Don’t Be Deceived by Society’s Definition of Success**\
 To be aware of who you are is to carve your own path to goals you believe end in success.
 As a result, the first tenet to follow in achieving true self-awareness is to rid yourself of
 preconceptions imposed onto you by societal norms. Now, this does not mean you should actively

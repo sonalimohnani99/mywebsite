@@ -79,7 +79,6 @@ And as mentioned in the “Art of War” by Sunzi, if use these experiences to l
 yourself, adapt to circumstances, and play the hand you are dealt with, you will be victorious.
 
 **Tenet III: There is no Authority for Freedom of Choice**\
-
 Even by being aware of our values and emotions through constant introspection, many times,
 there is no escaping conformity unless we wish marginalization. Be it in the form of a single
 individual, or a proxy for the voice the people, there is no denying the power attributed to authority.
@@ -133,7 +132,6 @@ visioned, as many others are, and actively seek to understand what we are unknow
 and what role we have in unjust practices, even when they are dictated by the majority.
 
 **Tenet V: Become Aware of How You Spend Your Time**\
-
 As you make goals that align to your values, keep assessing how you invest your time to
 accomplish them. As an exercise, I recommend that you make a detailed list of things that you did
 yesterday, before you even read this paper, to analyze how you are allocating your time. Doing

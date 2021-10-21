@@ -1,5 +1,5 @@
 ---
-title: "My 5 Tenets to Live By"
+title: "My 5 Tenets I Try to Live By"
 slug: "kids"
 date: 2017-10-31T21:28:43-05:00
 image: mini-me.jpg

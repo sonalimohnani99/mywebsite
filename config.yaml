@@ -27,7 +27,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Sonali Mohnani's Website
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)

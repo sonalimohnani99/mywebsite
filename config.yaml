@@ -33,12 +33,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
-    enable: no
-    quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+    enable: yes
     social:
       - icon: fa-file
         label: Resume
@@ -61,21 +56,13 @@ params:
   image: ''
   name: Sonali Mohnani
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Projects
+        url: projects
     menu: Menu
     subtitle:
     title: Sonali Mohnani
@@ -90,6 +77,10 @@ params:
         subtitle: My professional journey
         title: CV
         url: /files/Resume.pdf
+      - image: undo.jpg
+        subtitle: Nisl Sed Aliquam
+        title: My Undocumented Journey
+        url: blogs/ipsum
       - image: mini-me.jpg
         subtitle: Passing on some tenets I hope they live by
         title: Letter to My Future Kids
@@ -101,17 +92,10 @@ params:
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        url: blogs/ipsums
   two:
-    buttonText: About Me
+    buttonText: Portfolio
     enable: yes
-    title: "Learn a bit about me"
-    subtitle: "A first-generation student born and raised in Chile.
-      \n Graduate of the Stern School of Business at NYU, having studied Finance and 
-      Computing & Data Science and currently pursuing a Master's in Financial Analysis 
-      at the London Business School. \n Exploring the world and passionate about learning!"
+    title: "My R Projects"
+    subtitle: I have been learning how to code at London Business School. Check out some of my work! 
     url: blogs

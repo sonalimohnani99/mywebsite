@@ -80,7 +80,7 @@ params:
       - image: undo.jpg
         subtitle: Living in the shadows
         title: My Undocumented Journey
-        url: blogs/ipsum
+        url: blogs/undocumented
       - image: mini-me.jpg
         subtitle: Passing on some tenets I hope they live by
         title: Letter to My Future Kids

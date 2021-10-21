@@ -47,7 +47,7 @@ Furthermore, when you face adversity, do not succumb to the judgement of those w
 aware of the goals you set for yourself, as those that do, are as blind to your success as the cave
 dwellers are to the real nature of the world.
 
-**Tenet II**: Follow Your Heart to Give Justice to Your Human Potential
+**Tenet II: Follow Your Heart to Give Justice to Your Human Potential**\
 As was the case in understanding your true purpose and the higher values that stand behind
 it, there are two other elements in choosing your journey that you must never discount: passion
 and emotion. Although the power of intellect and hard work cannot be overstated, it is important
@@ -78,7 +78,7 @@ experience, failure or success, will be nothing but a lesson to take with you on
 And as mentioned in the “Art of War” by Sunzi, if use these experiences to learn and believe in
 yourself, adapt to circumstances, and play the hand you are dealt with, you will be victorious.
 
-**Tenet III**: There is no Authority for Freedom of Choice
+**Tenet III: There is no Authority for Freedom of Choice**\
 
 Even by being aware of our values and emotions through constant introspection, many times,
 there is no escaping conformity unless we wish marginalization. Be it in the form of a single
@@ -109,7 +109,7 @@ through his refusal to pay taxes as a demonstration against the Mexican-American
 this, Thoreau highlighted the idea that causes only derive its power from the majority. All societal
 structures that exist must be questioned, otherwise the mistakes we made in history will repeat.
 
-**Tenet IV**: Be Aware of the Unperceived Preconditions of Even the Smallest Parts of Life
+**Tenet IV: Be Aware of the Unperceived Preconditions of Even the Smallest Parts of Life**\
 As I mentioned in the previous tenet, it is very easy for humans to fall into a pattern of
 conformity. In relation to that attribute, it is also very easy to turn a blind eye to the sacrifices those
 around you make for the mundane things you take for granted daily, especially with the intense
@@ -132,7 +132,7 @@ visioned, as many others are, and actively seek to understand what we are unknow
 
 and what role we have in unjust practices, even when they are dictated by the majority.
 
-**Tenet V**: Become Aware of How You Spend Your Time
+**Tenet V: Become Aware of How You Spend Your Time**\
 
 As you make goals that align to your values, keep assessing how you invest your time to
 accomplish them. As an exercise, I recommend that you make a detailed list of things that you did

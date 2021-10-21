@@ -5,4 +5,4 @@ slug: projects
 title: R Projects
 ---
 
-My data analysis blog
+My data analytics blog. Coming soon..

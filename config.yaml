@@ -64,7 +64,6 @@ params:
       - name: Projects
         url: projects
     menu: Menu
-    subtitle:
     title: Sonali Mohnani
   tiles:
     enable: yes
@@ -82,8 +81,8 @@ params:
         title: My Undocumented Journey
         url: blogs/undocumented
       - image: mini-me.jpg
-        subtitle: Passing on some tenets I hope they live by
-        title: Letter to My Future Kids
+        subtitle: A Letter I'd Give my Kids
+        title: My 5 Tenets I Try to Live By
         url: blogs/Kids
       - image: cook.jpg
         subtitle: My mom cooks some bomb food and I'm a college student. This recipe book has been a life savior. 

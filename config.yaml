@@ -59,7 +59,7 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: About
         url: blogs
       - name: Projects
         url: projects
@@ -72,30 +72,30 @@ params:
       - image: about-me.jpg
         subtitle: Learn more about me
         title: About Me
-        url: blogs/tempus
+        url: blogs/about
       - image: fearless-girl.jpg
         subtitle: My professional journey
         title: CV
         url: /files/Resume.pdf
       - image: undo.jpg
-        subtitle: Nisl Sed Aliquam
+        subtitle: Living in the shadows
         title: My Undocumented Journey
         url: blogs/ipsum
       - image: mini-me.jpg
         subtitle: Passing on some tenets I hope they live by
         title: Letter to My Future Kids
-        url: blogs/aliquam
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsums
+        url: blogs/Kids
+      - image: cook.jpg
+        subtitle: My mom cooks some bomb food and I'm a college student. This recipe book has been a life savior. 
+        title: Mom's Cooking
+        url: /files/recipes.pdf
+      - image: thirteenth.jpeg
+        subtitle: Letter to the Corrections Corporations of America
+        title: The Thirteenth Amendment- A Loophole for Slavery
+        url: /files/Ccorp.pdf
   two:
     buttonText: Portfolio
     enable: yes
     title: "My R Projects"
     subtitle: I have been learning how to code at London Business School. Check out some of my work! 
-    url: blogs
+    url: Projects
